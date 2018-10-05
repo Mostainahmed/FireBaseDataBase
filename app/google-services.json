@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "182035518886",
+    "firebase_url": "https://seguridad-en-planta.firebaseio.com",
+    "project_id": "seguridad-en-planta",
+    "storage_bucket": "seguridad-en-planta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182035518886:android:1132ee692b379548",
+        "android_client_info": {
+          "package_name": "mostain.victory.com.onlinevehicle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182035518886-ktlgiigl3m0v0vo6kijtgvaa660dq9rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2-Sp8I3yBYTdZEK0zpQLB6fcJPIOWe40"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

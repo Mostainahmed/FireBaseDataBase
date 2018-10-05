@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnlineVehicle</string>
+    <string name="already_registered_sign_in_here">Already Registered? <b>Sign in</b> here</string>
+    <string name="don_t_have_an_account_sign_up_here">Don\'t have an account? <b>Sign up</b> here!</string>
+</resources>
